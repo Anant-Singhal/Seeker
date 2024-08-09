@@ -54,7 +54,7 @@ hr {
   color: black;
   padding: 10px;
   font-size: 35px;
-  margin-left: 194px;
+  
 }
 .special-paragraph2 {
   font-family: "Poppins", sans-serif;
@@ -64,9 +64,14 @@ hr {
   color: black;
   padding: 10px;
   font-size: 35px;
-  margin-right: 137px;
+  
 }
 .textdiv {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  gap: 186px;
+  width: 1198px;
+  margin: auto;
+
+
 }
